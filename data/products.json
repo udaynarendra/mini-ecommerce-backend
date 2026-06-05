@@ -1,0 +1,72 @@
+[
+  {
+    "id": "P1780462768465",
+    "title": "iphone 15",
+    "price": 50000,
+    "category": "mobile",
+    "stock": 13,
+    "brand": "Apple",
+    "description": "Apple iPhone 15 with A16 Bionic chip and 128GB storage",
+    "image": "https://example.com/images/iphone15.jpg"
+  },
+  {
+    "id": "P1780462817305",
+    "title": "puma hoodie",
+    "price": 2499,
+    "category": "fashion",
+    "stock": 14,
+    "brand": "Puma",
+    "description": "Warm cotton hoodie for winter wear",
+    "image": "https://example.com/images/puma-hoodie.jpg"
+  },
+  {
+    "id": "P1780462880343",
+    "title": "levi's denim jacket",
+    "price": 3499,
+    "category": "fashion",
+    "stock": 18,
+    "brand": "Levi's",
+    "description": "Classic blue denim jacket for casual wear",
+    "image": "https://example.com/images/levis-jacket.jpg"
+  },
+  {
+    "id": "P1780463049762",
+    "title": "nike air max",
+    "price": 5999,
+    "category": "footwear",
+    "stock": 30,
+    "brand": "Nike",
+    "description": "Comfortable running shoes for everyday use",
+    "image": "https://example.com/images/nike-airmax.jpg"
+  },
+  {
+    "id": "P1780463099288",
+    "title": "samsung galaxy s25",
+    "price": 69999,
+    "category": "mobile",
+    "stock": 8,
+    "brand": "Samsung",
+    "description": "Samsung flagship smartphone with AMOLED display",
+    "image": "https://example.com/images/galaxy-s25.jpg"
+  },
+  {
+    "id": "P1780463147857",
+    "title": "dell inspiron 15",
+    "price": 55999,
+    "category": "laptop",
+    "stock": 10,
+    "brand": "Dell",
+    "description": "15-inch laptop with Intel i5 processor and 16GB RAM",
+    "image": "https://example.com/images/dell-inspiron.jpg"
+  },
+  {
+    "id": "P1780463234681",
+    "title": "sony wh-1000xm5",
+    "price": 24999,
+    "category": "electronics",
+    "stock": 19,
+    "brand": "Sony",
+    "description": "Wireless noise-cancelling headphones",
+    "image": "https://example.com/images/sony-headphones.jpg"
+  }
+]
