@@ -190,15 +190,7 @@ GET /payments/:id
 
 ---
 
-# Authentication
 
-Protected routes require JWT token.
-
-Example:
-
-```http
-Authorization: Bearer your_token
-```
 
 ---
 
@@ -259,13 +251,7 @@ This project demonstrates:
 
 ---
 
-# Author
 
-Your Name
-
-GitHub: Your GitHub Link
-
-LinkedIn: Your LinkedIn Link
 
 ---
 
