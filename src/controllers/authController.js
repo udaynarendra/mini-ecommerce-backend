@@ -2,7 +2,7 @@ import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
 import dotenv from 'dotenv';
 dotenv.config();
-import { readFileData, writeFileData } from '../utils/filehandling.js';
+import { readFileData, writeFileData } from '../../utils/filehandling.js';
 const jwt_secret = process.env.JWT_SECRET;
 
 const register = async (req, res) => {
